@@ -1,5 +1,5 @@
 # dataanalysisusingpython
-Performed Data Cleaning and Manipulation
-Performed Exploratory Data Analysis using Matplotlib, pandas, and Seaborn libraries
-Improved Customer Experience by identifying potential customers across different states,occupation,gender and age groups
-Improved sales by indentifying most selling product categories and products, which can help to plan inventory and hence meet the demands.
+1. Performed Data Cleaning and Manipulation,
+2. Performed Exploratory Data Analysis using Matplotlib, pandas, and Seaborn libraries
+3. Improved Customer Experience by identifying potential customers across different states,occupation,gender and age groups
+4. Improved sales by indentifying most selling product categories and products, which can help to plan inventory and hence meet the demands.
